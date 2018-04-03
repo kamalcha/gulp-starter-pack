@@ -1,0 +1,8 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+{{nav.active('home')}}
+
+<h1>Home page - Gulp Starter Pack</h1>
+
+{% endblock %}

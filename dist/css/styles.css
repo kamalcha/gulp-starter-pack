@@ -1,0 +1,14 @@
+html {
+  height: 100%; }
+  html body {
+    color: #000;
+    font: 100%/1.6 "sans-serif";
+    width: 71.42857%; }
+
+h1 {
+  color: #000; }
+
+.active {
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase; }

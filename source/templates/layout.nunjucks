@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Home - Gulp Starter Pack</title>
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+{% import "macros/navigation.nunjucks" as nav %}
+	{% block content %}
+	{% endblock %}
+	<script src="js/main.js" async defer></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{% extends "layout.nunjucks" %}
+
+{% block content %}
+{{nav.active('users')}}
+
+<h1>Users page - Gulp Starter Pack</h1>
+
+{% endblock %}
