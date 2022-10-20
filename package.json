@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "gulp-cssnano": "^2.1.2",
-    "npm": "^5.7.1"
+    "npm": "^8.19.2"
   }
 }
